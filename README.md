@@ -1,8 +1,7 @@
 # GA-G41MT-S2PT-Rev-1.1-DSDT-Patch
 GA-G41MT-S2PT Rev 1.1 DSDT Patches
 
-So I’ve been working on a DSDT for the GA-G41MT-S2PT Revision 1.1 which
-can be added to MaciASL under Repo section.
+So I’ve been working on a DSDT for the GA-G41MT-S2PT Revision 1.1.
 
 Note that ALC889 patch will not work on Revision 2.0 which uses VIA
 Audio Chip.  Revision 1.1 Uses ALC889. Revision 1.0 & 2.1 has ALC887.
