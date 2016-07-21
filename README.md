@@ -6,6 +6,8 @@ So I’ve been working on a DSDT for the GA-G41MT-S2PT Revision 1.1.
 Note that ALC889 patch will not work on Revision 2.0 which uses VIA
 Audio Chip.  Revision 1.1 Uses ALC889. Revision 1.0 & 2.1 has ALC887.
 
+Recommend adding these edits to a clean DSDT freshly from ACPI by pressing F4 at Clover. Clean DSDT goes in EFI/Clover/ACPI/orgin.
+
 MaciASL needs to be on ACPI 6.1 under iASL which is set to default when
 downloading MaciASL from RehabMans fork.
 
